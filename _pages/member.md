@@ -1,2 +1,2 @@
-| [John Doe](#)    | Description of the item in the list                          |  
+| <img src="images/logo.jpg" title="Shuhei Takahata" width="300"> | aaa |  
 --- | ---
