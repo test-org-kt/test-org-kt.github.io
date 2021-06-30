@@ -13,4 +13,4 @@ author_profile: true
 | 萩原 広道<br><img src="../images/logo.jpg" title="Hiromishi Hagihara" width="300"> | 東京大学 国際高等研究所 ニューロインテリジェンス国際研究機構 (IRCN) 特別研究員 |  |
 | 石原 裕之<br><img src="../images/logo.jpg" title="Hiroyuki Ishihara" width="300"> | NTT |  |
 | 野田 遥<br><img src="../images/logo.jpg" title="Haruka Noda" width="300"> | 長崎大学 大学院 医歯薬学総合研究科 医療科学専攻<br>国立障害者リハビリテーションセンター 研究所 研究生<br>独立行政法人 日本学術振興会 特別研究員（DC2） |  |
-| 家永 直人<br><img src="../images/naotoienaga_icon.jpg" title="Naoto Ienaga" width="300"> | 慶應義塾大学 大学院 理工学部 情報工学科 助教 | 画像処理や機械学習の研究をしています． |
+| 家永 直人<br><img src="../images/naotoienaga_icon.jpg" title="Naoto Ienaga" width="300"> | 慶應義塾大学 理工学部 情報工学科 助教 | 画像処理や機械学習の研究をしています． |
