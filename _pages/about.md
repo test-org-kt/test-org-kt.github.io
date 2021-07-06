@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "What's decobocollabo"
+title: "What's decobocollabo?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
