@@ -13,6 +13,7 @@ redirect_from:
 Vision
 ------
 コラボで、臨床を「よく」する
+できるかな！？
 
 Style
 ------
