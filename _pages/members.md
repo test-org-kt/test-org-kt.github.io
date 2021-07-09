@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Member"
-permalink: /member/
+title: "The Decobocollabo Teams"
+permalink: /members/
 author_profile: true
 ---
-
-# The Decobocollabo Teams
 
 2021年07月09日現在  
 ※あいうえお順
