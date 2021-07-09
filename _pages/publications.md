@@ -20,5 +20,16 @@ _Occupational Therapy International_, vol. 2020, Article ID 8542191, 9 pages, 27
 
 ### 作業療法効果の定量化に向けた予備的研究―画像処理技術OpenPoseの臨床的応用―  
 高畑脩平, 萩原広道, 榎本大貴, 家永直人, 寺山 慧  
-第52回日本作業療法学会, 2018年9月7日
+第52回日本作業療法学会, 2018年9月7日 [Poster]
 
+### Quantitative Analysis of Spatiotemporal Facial Landmark Dynamics for Pediatric Occupational Therapy: A Preliminary Study  
+Hiromichi Hagihara, Hiroyuki Ishihara, Shuhei Takahata, Kei Terayama, Daiki Enomoto  
+_1st International/5th Japanese Congress of Clinical Occupational Therapy_, 21, Jul. 2018 [Poster]
+
+### The Clinical Application of Image Analysis Technology for Quantitative Assessment and Effect Measurement of Pediatric Occupational Therapy: A Pilot Study  
+Shuhei Takahata, Hiromichi Hagihara, Kei Terayama, Naoto Ienaga, Tokio Koshiba, Daiki Enomoto  
+_1st International/5th Japanese Congress of Clinical Occupational Therapy_, 21, Jul. 2018 [Poster]
+
+#### [MIRU2017 若手プログラム 「研究の虎」](http://www.am.sanken.osaka-u.ac.jp/MIRU2017wakate/tora.html)
+家永直人, 石原裕之, 菊池康太郎, 小芝駿王, 寺山慧, 萩原広道  
+2017年8月7-10日
