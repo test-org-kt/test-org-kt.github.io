@@ -33,3 +33,6 @@ _1st International/5th Japanese Congress of Clinical Occupational Therapy_, 21, 
 #### [MIRU2017 若手プログラム 「研究の虎」](http://www.am.sanken.osaka-u.ac.jp/MIRU2017wakate/tora.html)
 家永直人, 石原裕之, 菊池康太郎, 小芝駿王, 寺山慧, 萩原広道  
 2017年8月7-10日
+
+
+
