@@ -10,3 +10,5 @@ author_profile: true
 * 身体のいくつかの関節の遷移を可視化し、それを基に安定度を算出
 * 作業療法士の臨床における評価とも高い相関
 * 事例研究への適用にて、介入前後の改善が安定度からも把握可能に
+
+<img src="../images/proj_posture_eval.jpg" title="Posture Evaluation">
