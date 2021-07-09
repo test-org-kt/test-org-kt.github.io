@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-でこぼこらぼ（decobocollabo）のwebサイトです。test
+でこぼこらぼ（decobocollabo）のwebサイトです。
 
 Vision
 ------
