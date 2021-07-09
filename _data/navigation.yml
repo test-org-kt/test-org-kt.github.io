@@ -4,7 +4,7 @@ main:
     url: /about/
 
   - title: "Members"
-    url: /member/
+    url: /members/
 
   - title: "Projects"
     url: /projects/
