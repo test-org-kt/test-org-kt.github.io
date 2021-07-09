@@ -7,7 +7,7 @@ author_profile: true
 
 # The Decobocollabo Teams
 
-2021年07月09日現在
+2021年07月09日現在  
 ※あいうえお順
 
 | 氏名 | ①所属　②学位・資格　③チーム内での担当　④ひとこと　⑤SNSなど |
