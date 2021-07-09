@@ -10,7 +10,7 @@ author_profile: true
 
 | 氏名 | ①所属　②学位・資格　③チーム内での担当　④ひとこと　⑤SNSなど |
 | :----: | :---- | 
-| **家永 直人** <br> Naoto Ienaga<br><img src="../images/Ienaga.png" title="Naoto Ienaga" width="200"> | ①慶應義塾大学理工学部情報工学科助教<br>②<br>③<br>④<br>⑤[Researchmap](https://researchmap.jp/naotoienaga)  |
+| **家永 直人** <br> Naoto Ienaga<br><img src="../images/Ienaga.png" title="Naoto Ienaga" width="200"> | ①慶應義塾大学 理工学部 情報工学科 助教<br>②博士（工学）<br>③<br>④<br>⑤[Researchmap](https://researchmap.jp/naotoienaga)  |
 | **石原 裕之** <br> Hiroyuki Ishihara<br><img src="../images/Ishihara.png" title="Hiroyuki Ishihara" width="200"> | ①NTT<br>②<br>③<br>④<br>⑤  |
 | **榎本 大貴** <br> Daiki Enomoto <br><img src="../images/Enomoto.png" title="Daiki Enomoto" width="200"> | ①株式会社LITALICO LITALICO研究所マネジャー／チーフリサーチャー<br>②<br>③<br>④<br>⑤ |
 | **高畑 脩平**<br> Shuhei Takahata <br> <img src="../images/takahata.png" title="Shuhei Takahata" width="200"> | ①藍野大学医療保健学部作業療法学科助教など<br>②<br>③<br>④<br>⑤ |
