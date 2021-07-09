@@ -11,4 +11,4 @@ author_profile: true
 * 作業療法士の臨床における評価とも高い相関
 * 事例研究への適用にて、介入前後の改善が安定度からも把握可能に
 
-<img src="../images/proj_posture_eval.jpg" title="Posture Evaluation">
+<img src="../images/proj_posture_eval.jpg" title="Posture Evaluation" width="500">
