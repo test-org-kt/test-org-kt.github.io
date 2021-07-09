@@ -1,7 +1,13 @@
 # main links links
 main:
-  - title: "Member"
-    url: /member/
+  - title: "About"
+    url: /about/
+
+  - title: "Members"
+    url: /members/
+
+  - title: "Projects"
+    url: /projects/
 
   - title: "Publications"
     url: /publications/
@@ -21,5 +27,5 @@ main:
 #   - title: "CV"
 #     url: /cv/
     
-#   - title: "Guide"
-#     url: /markdown/
+  - title: "Guide"
+    url: /markdown/
