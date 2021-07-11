@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "What's decobocollabo?"
+title: "Decobocollaboのwebページへようこそ！"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,35 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-でこぼこらぼ（decobocollabo）のwebサイトです。
+<img src="../images/topimage.png" title="Naoto Ienaga">
 
-Vision
-------
-コラボで、臨床を「よく」する
-できるかな！？
+**「でこぼこらぼ」(decobocollabo)** は、「コラボで臨床を『よく』する」を目標に活動する研究グループです。リハビリテーションの専門職者・研究者と、コンピュータビジョンの研究者・技術者とで活動しています！"
 
-Style
+News
 ------
-* コラボを楽しむ
-* あそびを大事にする
-* たがいをよく知る
+- 2021/07/12 メンバーの野田・萩原が "Introduction to Sensory Modulation: Clinical tips for people with ASD" のタイトルで研修講師を行ないます。詳細は[こちら](https://twitter.com/OkitaYuho/status/1412392652901797889?s=20)から。
+- 2021/07/01 websiteを開設しました！
 
-運営方針
-------
-* 成果は形にする
-  * 論文投稿・学会発表
-  * プロダクト・サービス
-  * イベント
-* プロジェクトはやりたいことをやる
-  * 定期的に合宿し、新規テーマを検討する
-  * 論文は国内外の学会・会議のdeadlineに合わせる
-* チームと役割
-  * プロジェクトごとにグループをつくる
-  * 基本的にはオープンなので、関わりたい人が関わる
-  * プロジェクトによっては、開発エンジニアや当事者も必要
-* アウトリーチ・広報
-  * ウェブサイトとfacebookページで活動報告
-  * 報告会・勉強会等のイベントを開催して巻き込む人を増やす
-* 資金
-  * 役割や成果物に対する金銭的な報酬は発生させない
-  * 必要経費は調達したいので、ファンドレイジング戦略は検討する
+
