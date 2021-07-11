@@ -11,7 +11,7 @@ author_profile: true
 * 視線が指差しの合理的な代替手段になり得ることを示した
 * この結果は異なるモダリティの結果を包括的に解釈するのに役立つ
 
-<img src="../images/proj_2AFC.jpg" title="Posture Evaluation" width="700">
+<!-- <img src="../images/proj_2AFC.jpg" title="Posture Evaluation" width="700"> -->
 
 <br>
 
@@ -21,4 +21,4 @@ author_profile: true
 * 作業療法士の臨床における評価とも高い相関
 * 1つの課題から複数の身体機能の評価が可能となったり、課題時間の短縮が可能となったりする可能性を示した
 
-<img src="../images/proj_posture_eval.jpg" title="Posture Evaluation" width="700">
+<!-- <img src="../images/proj_posture_eval.jpg" title="Posture Evaluation" width="700"> -->
