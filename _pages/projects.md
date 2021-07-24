@@ -23,7 +23,7 @@ author_profile: true
 * 1つの課題から複数の身体機能の評価が可能となったり、課題時間の短縮が可能となったりする可能性を示した
 
 <img src="../images/proj_posture_eval.jpg" title="Posture Evaluation" width="700">  
-＊図は"Computer Vision-Based Approach for Quantifying Occupational Therapists’ Qualitative Evaluations of Postural Control," _Occupational Therapy International_より
+*図は"Computer Vision-Based Approach for Quantifying Occupational Therapists’ Qualitative Evaluations of Postural Control," _Occupational Therapy International_ より
 
 <br>
 
