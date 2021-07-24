@@ -18,13 +18,9 @@ _Occupational Therapy International_, vol. 2020, Article ID 8542191, 9 pages, 27
 
 ## Conference
 
-### ペンタブレットを用いた書字能力の評価ツール開発に向けた予備的研究
-高畑脩平, 新庄真帆, 遠田千晶, 萩原広道, 榎本大貴
-_第54回日本作業療法学会_, 2020年9月25日 - 2020年10月25日 [Poster]
-
-## Collaboration between occupational therapists and nursery/daycare teachers leads to the spread of playful activities without using specialised equipment based on sensory integration framework
-Hiromichi Hagihara, Shuhei Takahata, Sayako Tsuchiya, Yoshimi Ueda, Keiko Tanaka, Megumi Ohkubo
-_Virtual OT Exchange 2020_, 2020年9月14日 - 2020年9月15日 [Poster]
+### ペンタブレットを用いた書字能力の評価ツール開発に向けた予備的研究  
+高畑脩平, 新庄真帆, 遠田千晶, 萩原広道, 榎本大貴  
+_第54回日本作業療法学会_, 2020年9月25日 - 2020年10月25日 [Poster]  
 
 ### 作業療法効果の定量化に向けた予備的研究―画像処理技術OpenPoseの臨床的応用―  
 高畑脩平, 萩原広道, 榎本大貴, 家永直人, 寺山 慧  
