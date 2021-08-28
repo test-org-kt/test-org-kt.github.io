@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "decobocollabo"
+title                    : "terayama-group"
 title_separator          : "-"
-name                     : &name "decobocollabo"
+name                     : &name "terayama-group"
 description              : &description "personal description"
 url                      : https://decobocollabo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "decobocollabo/decobocollabo.github.io"
+repository               : "test-org-kt/test-org-kt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "decobocollabo"
-  avatar           : "logo.jpg"
-  bio              : "「でこぼこらぼ」は、「コラボで臨床を『よく』する」を目標に活動する研究グループです。リハビリテーションの専門職者・研究者と、コンピュータビジョンの研究者・技術者とで活動しています！"
+  name             : "terayama-group"
+  avatar           : "logo.png"
+  bio              : "XXXはYYY"
   location         : 
   employer         :
   pubmed           : 
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCb0PuO3N0bqTj_64yenQN0A"
+  youtube          : #"https://www.youtube.com/channel/UCb0PuO3N0bqTj_64yenQN0A"
   wikipedia        :
 
 
