@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="../images/topimage.png" title="Naoto Ienaga">
+<img src="../images/topimage.tif" title="top image">
 
 **生命情報科学研究室(寺山グループ)** は、人工知能関連技術を生かして生命医科学分野を加速する研究を行っています。
   
