@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Decobocollaboのwebページへようこそ！"
+title: "生命情報科学研究室(寺山グループ)のwebページへようこそ！"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,19 +10,19 @@ redirect_from:
 
 <img src="../images/topimage.png" title="Naoto Ienaga">
 
-**「でこぼこらぼ」(decobocollabo)** は、「コラボで臨床を『よく』する」を目標に活動する研究グループです。リハビリテーションの専門職者・研究者と、コンピュータビジョンの研究者・技術者とで活動しています！
+**生命情報科学研究室(寺山グループ)** は、人工知能関連技術を生かして生命医科学分野を加速する研究を行っています。
   
   
   
 News
 ------
-- 2021/07/12 メンバーの野田・萩原が "Introduction to Sensory Modulation: Clinical tips for people with ASD" のタイトルで研修講師を行ないます。詳細は[こちら](https://twitter.com/OkitaYuho/status/1412392652901797889?s=20)から。
-- 2021/07/01 websiteを開設しました！
+- 2021/08/29 XXX
+- 2021/08/28 websiteを作成
   
   
   
 Contact
 ------
-共同研究や講演，研修など、お仕事のご依頼・ご相談はメンバーの萩原 ( hiromichi.hあっとgmail.com ) までご連絡ください。
+共同研究や講演，研修など、お仕事のご依頼・ご相談は寺山 (  ) までご連絡ください。
 ※あっとを@に変えてください。
 
