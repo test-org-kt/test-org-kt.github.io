@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[## Journal](#Journal)
+## [Journal](#Journal)
 
 <details><summary>表示文字</summary>
 中身の文章
