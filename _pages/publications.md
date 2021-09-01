@@ -9,10 +9,9 @@ author_profile: true
 ## Journal
 
 - 2021
-
  - [Looking Represents Choosing in Toddlers: Exploring the Equivalence between Multimodal Measures in Forced‐choice Tasks](https://doi.org/10.1111/infa.12377)  
-Hiromichi Hagihara, Naoto Ienaga, Kei Terayama, Yusuke Moriguchi, Masa-aki Sakagami  
-_Infancy_, vol. 26, issue 1, pages 148-167, Jan. 2021 (published online: 19 Dec. 2020)
+  - Hiromichi Hagihara, Naoto Ienaga, Kei Terayama, Yusuke Moriguchi, Masa-aki Sakagami  
+  - _Infancy_, vol. 26, issue 1, pages 148-167, Jan. 2021 (published online: 19 Dec. 2020)
 
 
 <details><summary>2021</summary>
