@@ -25,17 +25,16 @@ author_profile: true
     
     - S. Nojima\#, K. Terayama\#, S. Shimoura, S. Hijiki, N. Nonomura, E Morii, Y. Okuno,  K. Fujita\*, [A deep learning system to diagnose the malignant potential of urothelial carcinoma cells in cytology specimens](https://doi.org/10.1002/cncy.22443). *Cancer Cytopathology*, 2021. 
     
-    - H. Habe, Y. Takeuchi, K. Terayama,  M. Sakagami, [Pose estimation of swimming fish using an NACA airfoil model for collective behavior analysis," Journal of Robotics and Mechatronics](https://doi.org/10.20965/jrm.2021.p0547). **33**(3), 547-555, (2021).
+    - H. Habe, Y. Takeuchi, K. Terayama,  M. Sakagami, [Pose estimation of swimming fish using an NACA airfoil model for collective behavior analysis](https://doi.org/10.20965/jrm.2021.p0547). *Journal of Robotics and Mechatronics*, **33**(3), 547-555, (2021).
     
     - K. Terayama, M. Sumita, R. Tamura, and K. Tsuda\*, [Black-Box Optimization for Automated Discovery](https://doi.org/10.1021/acs.accounts.0c00713). *Accounts of Chemical Research*, **54**(6), 1334-1346, (2021). 
     
-    - S. Matsumoto\#, S. Ishida\#, M. Araki, T. Kato, K. Terayama\*, Y. Okuno\* "Extraction of protein dynamics information from cryo-EM maps using deep learning," Nature Machine Intelligence, Vol.3, pp.153-160, 2021. [DOI: 10.1038/s42256-020-00290-y](https://doi.org/10.1038/s42256-020-00290-y)
+    - S. Matsumoto\#, S. Ishida\#, M. Araki, T. Kato, K. Terayama\*, Y. Okuno\*, [Extraction of protein dynamics information from cryo-EM maps using deep learning](https://doi.org/10.1038/s42256-020-00290-y). *Nature Machine Intelligence*, **3**, 153-160, (2021).
     
-    - N. Ienaga\#, K. Higuchi\#, T. Takashi, K. Gen, K. Tsuda, K. Terayama\*, "Vision-based egg quality prediction in Pacific bluefin tuna (Thunnus orientalis) by deep neural network," Scientific Reports, Vol.11, No.6, 2021. [DOI: 10.1038/s41598-020-80001-0](https://doi.org/10.1038/s41598-020-80001-0)
+    - N. Ienaga\#, K. Higuchi\#, T. Takashi, K. Gen, K. Tsuda, K. Terayama\*, [Vision-based egg quality prediction in Pacific bluefin tuna (Thunnus orientalis) by deep neural network](https://doi.org/10.1038/s41598-020-80001-0). *Scientific Reports*, **11**(6), (2021).
     
 - 2020
-    - H. Hagihara\*, N. Ienaga, K. Terayama, Y. Moriguchi, M. Sakagami, "Looking represents choosing in toddlers: Exploring the equivalence between multimodal measures in forced-choice tasks," Infancy, Vol.26, pp.148–167, 2020. [DOI:10.1111/infa.12377](https://doi.org/10.1111/infa.12377)
-
+    - H. Hagihara\*, N. Ienaga, K. Terayama, Y. Moriguchi, M. Sakagami, [Looking represents choosing in toddlers: Exploring the equivalence between multimodal measures in forced-choice tasks](https://doi.org/10.1111/infa.12377), *Infancy*, **26**, 148–167, (2020). 
 
 
 ## Conference
