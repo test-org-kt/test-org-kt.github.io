@@ -15,13 +15,16 @@ author_profile: true
 - 2021
     - Y. Amamoto\*, H. Kikutake, K. Kojio, A. Takahara, K. Terayama, Visualization of judgment regions in convolutional neural networks for X-ray diffraction and scattering images of aliphatic polyesters. *Polymer Journal*, (2021). [DOI: 10.1038/s41428-021-00531-w](https://doi.org/10.1038/s41428-021-00531-w)
     - K. Terayama\*, M. Sumita, M. Katouda, K. Tsuda, Y. Okuno\*, Efficient Search for Energetically Favorable Molecular Conformations against Metastable States via Gray-Box Optimization. *Journal of Chemical Theory and Computation*, **17**(8), 5419-5427, (2021). [DOI: 10.1021/acs.jctc.1c00301](https://doi.org/10.1021/acs.jctc.1c00301)
-    - T. Yamashita, S. Kanehira, N. Sato, H. Kino, K. Terayama, H. Sawahata, T. Sato, F. Utsuno, K. Tsuda, T. Miyake, T. Oguchi, CrySPY: a crystal structure prediction tool accelerated by machine learning. *Science and Technology of Advanced Materials: Methods*, **1(1)**, 87-97, (2021). [DOI: 10.1080/27660400.2021.1943171](https://doi.org/10.1080/27660400.2021.1943171) 
+    - T. Yamashita, S. Kanehira, N. Sato, H. Kino, K. Terayama, H. Sawahata, T. Sato, F. Utsuno, K. Tsuda, T. Miyake, T. Oguchi, CrySPY: a crystal structure prediction tool accelerated by machine learning. *Science and Technology of Advanced Materials: Methods*, **1**(1), 87-97, (2021). [DOI: 10.1080/27660400.2021.1943171](https://doi.org/10.1080/27660400.2021.1943171) 
+
+- 2020
 
 
+## Conference
 
-    - [Looking Represents Choosing in Toddlers: Exploring the Equivalence between Multimodal Measures in Forced‐choice Tasks](https://doi.org/10.1111/infa.12377)  
-        - Hiromichi Hagihara, Naoto Ienaga, Kei Terayama, Yusuke Moriguchi, Masa-aki Sakagami  
-        - _Infancy_, vol. 26, issue 1, pages 148-167, Jan. 2021 (published online: 19 Dec. 2020)
+- 2021
+
+- 2020
 
 
 <details><summary>2021</summary>
@@ -40,7 +43,6 @@ _Occupational Therapy International_, vol. 2020, Article ID 8542191, 9 pages, 27
 
 </details>
 
-## Conference
 
 
 <details><summary>2020</summary>
