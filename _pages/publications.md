@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-# [Journal papers](#Journal)
+## [Journal papers](#Journal)
 
-# [Journal papers](#Journal)
+## [Conference papers](#Conference papers)
+
+## [Conference presentations](#Conference presentations)
 
 <details><summary>表示文字</summary>
 中身の文章
@@ -18,7 +20,9 @@ author_profile: true
 
 ## Journal
 
+## Conference papers
 
+## Conference presentations
 
 
 
