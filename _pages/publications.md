@@ -9,6 +9,8 @@ author_profile: true
 
 ## Journal
 - 2021
+    - Y. Amamoto, H. Kikutake, K. Kojio, A. Takahara, and K. Terayama, "Visualization of judgment regions in convolutional neural networks for X-ray diffraction and scattering images of aliphatic polyesters," Polymer Journal, 2021. [DOI: 10.1038/s41428-021-00531-w](https://doi.org/10.1038/s41428-021-00531-w)
+
     - [Looking Represents Choosing in Toddlers: Exploring the Equivalence between Multimodal Measures in Forced‐choice Tasks](https://doi.org/10.1111/infa.12377)  
         - Hiromichi Hagihara, Naoto Ienaga, Kei Terayama, Yusuke Moriguchi, Masa-aki Sakagami  
         - _Infancy_, vol. 26, issue 1, pages 148-167, Jan. 2021 (published online: 19 Dec. 2020)
