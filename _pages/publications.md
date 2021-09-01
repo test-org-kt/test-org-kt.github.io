@@ -13,7 +13,7 @@ author_profile: true
 
 ## Journal
 - 2021
-    - Y. Amamoto\*, H. Kikutake, K. Kojio, A. Takahara, K. Terayama, Visualization of judgment regions in convolutional neural networks for X-ray diffraction and scattering images of aliphatic polyesters. *Polymer Journal*, (2021). [DOI: 10.1038/s41428-021-00531-w](https://doi.org/10.1038/s41428-021-00531-w)
+    - Y. Amamoto\*, H. Kikutake, K. Kojio, A. Takahara, K. Terayama, [Visualization of judgment regions in convolutional neural networks for X-ray diffraction and scattering images of aliphatic polyesters](https://doi.org/10.1038/s41428-021-00531-w). *Polymer Journal*, (2021). [DOI: 10.1038/s41428-021-00531-w]
     - K. Terayama\*, M. Sumita, M. Katouda, K. Tsuda, Y. Okuno\*, Efficient Search for Energetically Favorable Molecular Conformations against Metastable States via Gray-Box Optimization. *Journal of Chemical Theory and Computation*, **17**(8), 5419-5427, (2021). [DOI: 10.1021/acs.jctc.1c00301](https://doi.org/10.1021/acs.jctc.1c00301)
     - T. Yamashita, S. Kanehira, N. Sato, H. Kino, K. Terayama, H. Sawahata, T. Sato, F. Utsuno, K. Tsuda, T. Miyake, T. Oguchi, CrySPY: a crystal structure prediction tool accelerated by machine learning. *Science and Technology of Advanced Materials: Methods*, **1**(1), 87-97, (2021). [DOI: 10.1080/27660400.2021.1943171](https://doi.org/10.1080/27660400.2021.1943171) 
     - B. Ma, K. Terayama*, S. Matsumoto, Y. Isaka, Y. Sasakura, H. Iwata, M. Araki, and Y. Okuno*, "Structure-Based de Novo Molecular Generator Combined with Artificial Intelligence and Docking Simulations," Journal of Chemical Information and Modeling, 2021. [DOI: 10.1021/acs.jcim.1c00679](https://doi.org/10.1021/acs.jcim.1c00679)
