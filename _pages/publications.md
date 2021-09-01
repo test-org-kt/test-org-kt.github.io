@@ -7,6 +7,10 @@ author_profile: true
 
 (last updated August 15, 2021; also see [Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=MPsRQl0AAAAJ))
 
+* [Journal](#Journal)
+* [Conference](#Conference)
+
+
 ## Journal
 - 2021
     - Y. Amamoto*, H. Kikutake, K. Kojio, A. Takahara, K. Terayama, Visualization of judgment regions in convolutional neural networks for X-ray diffraction and scattering images of aliphatic polyesters. *Polymer Journal*, (2021). [DOI: 10.1038/s41428-021-00531-w](https://doi.org/10.1038/s41428-021-00531-w)
