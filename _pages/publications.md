@@ -13,8 +13,8 @@ author_profile: true
 
 ## Journal
 - 2021
-    - Y. Amamoto*, H. Kikutake, K. Kojio, A. Takahara, K. Terayama, Visualization of judgment regions in convolutional neural networks for X-ray diffraction and scattering images of aliphatic polyesters. *Polymer Journal*, (2021). [DOI: 10.1038/s41428-021-00531-w](https://doi.org/10.1038/s41428-021-00531-w)
-    - K. Terayama*, M. Sumita, M. Katouda, K. Tsuda, Y. Okuno*, Efficient Search for Energetically Favorable Molecular Conformations against Metastable States via Gray-Box Optimization. *Journal of Chemical Theory and Computation*, **17**(8), 5419-5427, (2021). [DOI: 10.1021/acs.jctc.1c00301]
+    - Y. Amamoto\*, H. Kikutake, K. Kojio, A. Takahara, K. Terayama, Visualization of judgment regions in convolutional neural networks for X-ray diffraction and scattering images of aliphatic polyesters. *Polymer Journal*, (2021). [DOI: 10.1038/s41428-021-00531-w](https://doi.org/10.1038/s41428-021-00531-w)
+    - K. Terayama\*, M. Sumita, M. Katouda, K. Tsuda, Y. Okuno\*, Efficient Search for Energetically Favorable Molecular Conformations against Metastable States via Gray-Box Optimization. *Journal of Chemical Theory and Computation*, **17**(8), 5419-5427, (2021). [DOI: 10.1021/acs.jctc.1c00301]
 
 
 
