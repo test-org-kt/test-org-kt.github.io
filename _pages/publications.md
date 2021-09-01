@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+(last updated August 15, 2021; also see [Google Scholar](https://scholar.google.co.jp/citations?hl=ja&user=MPsRQl0AAAAJ))
 
 ## Journal
 - 2021
