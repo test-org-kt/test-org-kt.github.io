@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-## [Journal papers](#Journal)
+## [Journal](#Journal)
 
-## [Conference papers](#Conference papers)
-
-## [Conference presentations](#Conference presentations)
+## [Conference](#Conference)
 
 <details><summary>表示文字</summary>
 中身の文章
@@ -20,9 +18,7 @@ author_profile: true
 
 ## Journal
 
-## Conference papers
-
-## Conference presentations
+## Conference
 
 
 
@@ -35,7 +31,7 @@ Hiromichi Hagihara, Naoto Ienaga, Daiki Enomoto, Shuhei Takahata, Hiroyuki Ishih
 _Occupational Therapy International_, vol. 2020, Article ID 8542191, 9 pages, 27 Apr. 2020
 
 
-## Conference
+
 
 ### ペンタブレットを用いた書字能力の評価ツール開発に向けた予備的研究  
 高畑脩平, 新庄真帆, 遠田千晶, 萩原広道, 榎本大貴  
